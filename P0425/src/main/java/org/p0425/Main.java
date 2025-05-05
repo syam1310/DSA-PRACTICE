@@ -17,5 +17,7 @@ public class Main {
         System.out.println(CatalonNumber.recursiveCN(4));
         System.out.println(GenerateParentheses.generateParenthesis(3));
         System.out.println(MultiplyTwoStrings.multiplyTwoStrings("2", "10"));
+
+        System.out.println(CountDigit.countDigit(10));
     }
 }
